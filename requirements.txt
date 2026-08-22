@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+pyautogui
+pynput
+numpy
+SpeechRecognition
+PyAudio
+cmake
+face_recognition
+ultralytics
